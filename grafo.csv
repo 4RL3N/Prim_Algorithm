@@ -1,0 +1,343 @@
+source,target,weight
+Sao Paulo,Jundiai,49
+Sao Paulo,Pelotas,2
+Sao Paulo,Belem,37
+Sao Paulo,Marilia,50
+Sao Paulo,Petropolis,33
+Sao Paulo,Olinda,76
+Rio de Janeiro,Porto Velho,97
+Rio de Janeiro,Curitiba,40
+Rio de Janeiro,Governador Valadares,42
+Rio de Janeiro,Itabuna,77
+Belo Horizonte,Jaboatao,9
+Belo Horizonte,Mossoro,98
+Belo Horizonte,Juazeiro do Norte,6
+Belo Horizonte,Niteroi,68
+Belo Horizonte,Brasilia,60
+Porto Alegre,Cabo Frio,68
+Porto Alegre,Joinvile,68
+Brasilia,Campina Grande,18
+Brasilia,Marilia,73
+Brasilia,Santarem,60
+Recife,Belo Horizonte,86
+Fortaleza,Brasilia,47
+Fortaleza,Macapa,99
+Fortaleza,Itajai,23
+Salvador,Feira de Santana,73
+Salvador,Imperatriz,35
+Salvador,Timon,29
+Curitiba,Londrina,64
+Curitiba,Aracaju,97
+Campinas,Taubate,54
+Belem,Campos,20
+Belem,Americana,1
+Belem,Porto Velho,32
+Belem,Caxias do Sul,83
+Belem,Santa Maria,95
+Belem,Criciuma,52
+Goiania,Imperatriz,66
+Goiania,Itabuna,21
+Manaus,Porto Velho,90
+Manaus,Caxias do Sul,46
+Manaus,Blumenau,45
+Manaus,Pelotas,82
+Manaus,Canoas,27
+Manaus,Niteroi,60
+Santos,Salvador,29
+Vitoria,Bauru,10
+Vitoria,Americana,72
+Niteroi,Porto Velho,19
+Niteroi,Campina Grande,68
+Vila Velha,Ponta Grossa,58
+Vila Velha,Ipatinga,39
+Vila Velha (Amapa),Arapiraca,19
+Vila Velha (Amapa),Uberlandia,80
+Vila Velha (Amapa),Iguacu,86
+Vila Velha (Amapa),Florianopolis,31
+Vila Velha (Amapa),Novo Hamburgo,2
+Maceio,Guaratingueta,23
+Maceio,Vila Velha,50
+Maceio,Macapa,97
+Maceio,Vitoria,14
+Natal,Foz do Iguacu,68
+Natal,Governador Valadares,74
+Sao Luis,Rio Grande,4
+Sao Luis,Pelotas,78
+Sao Luis,Piracicaba,51
+Florianopolis,Maceio,51
+Florianopolis,Caxias do Sul,85
+Florianopolis,Natal,10
+Joinvile,Belem,69
+Joinvile,Petrolina,63
+Joinvile,Guaratingueta,45
+Joinvile,Timon,82
+Joinvile,Aracaju,47
+Joinvile,Sao Jose do Rio Preto,76
+Joao Pessoa,Franca,26
+Joao Pessoa,Natal,99
+Olinda,Florianopolis,91
+Olinda,Imperatriz,22
+Olinda,Campos,68
+Olinda,Itabuna,31
+Olinda,Ilheus,58
+Olinda,Vila Velha (Amapa),74
+Teresina,Recife,55
+Teresina,Presidente Prudente,57
+Teresina,Macapa,44
+Teresina,Pelotas,90
+Teresina,Natal,24
+Teresina,Criciuma,36
+Novo Hamburgo,Varzea Grande,68
+Novo Hamburgo,Uberlandia,44
+Iguacu,Sao Jose do Rio Preto,38
+Cuiaba,Rio Branco,96
+Cuiaba,Franca,69
+Cuiaba,Sete Lagoas,82
+Cuiaba,Petropolis,65
+Cuiaba,Cascavel,92
+Cuiaba,Recife,84
+Campo Grande,Ipatinga,11
+Campo Grande,Arapiraca,89
+Campo Grande,Sao Paulo,67
+Campo Grande,Boa Vista,66
+Campo Grande,Campinas,23
+Campo Grande,Crato,27
+Sao Jose dos Campos,Feira de Santana,68
+Jaboatao,Palmas,100
+Jaboatao,Santa Maria,58
+Jaboatao,Caruaru,72
+Jaboatao,Juazeiro do Norte,52
+Aracaju,Santo Andre,87
+Aracaju,Niteroi,54
+Aracaju,Blumenau,90
+Aracaju,Santos,70
+Aracaju,Londrina,53
+Sao Jose dos Pinhais,Jundiai,1
+Sao Jose dos Pinhais,Campos,10
+Sao Jose dos Pinhais,Iguacu,48
+Sao Jose dos Pinhais,Presidente Prudente,100
+Sao Jose dos Pinhais,Ribeirao Preto,64
+Sao Jose dos Pinhais,Juiz de Fora,5
+Santo Andre,Juazeiro do Norte,5
+Santo Andre,Piracicaba,90
+Santo Andre,Jaboatao,59
+Canoas,Cachoeiro de Itapemirim,2
+Canoas,Santo Andre,32
+Canoas,Rio de Janeiro,76
+Canoas,Belo Horizonte,53
+Canoas,Presidente Prudente,77
+Uberlandia,Sao Paulo,24
+Uberlandia,Santa Maria,20
+Sorocaba,Rio Grande,50
+Sorocaba,Itu,95
+Sorocaba,Juazeiro do Norte,53
+Sorocaba,Rio Claro,7
+Sorocaba,Caxias do Sul,23
+Ribeirao Preto,Maceio,43
+Ribeirao Preto,Sao Jose dos Pinhais,78
+Londrina,Crato,98
+Jundiai,Cachoeiro de Itapemirim,67
+Jundiai,Salvador,77
+Jundiai,Campinas,81
+Jundiai,Cabo Frio,42
+Macapa,Feira de Santana,73
+Feira de Santana,Rio de Janeiro,19
+Feira de Santana,Novo Hamburgo,39
+Feira de Santana,Vila Velha,41
+Feira de Santana,Vila Velha (Amapa),3
+Feira de Santana,Cabo Frio,74
+Feira de Santana,Rio Grande,74
+Americana,Maceio,20
+Americana,Campos,100
+Juiz de Fora,Cuiaba,74
+Juiz de Fora,Santos,95
+Juiz de Fora,Caxias do Sul,91
+Juiz de Fora,Piracicaba,30
+Juiz de Fora,Petrolina,93
+Volta Redonda,Sao Jose do Rio Preto,41
+Volta Redonda,Cuiaba,64
+Volta Redonda,Sao Carlos,41
+Volta Redonda,Arapiraca,35
+Foz do Iguacu,Sao Jose do Rio Preto,94
+Foz do Iguacu,Joinvile,12
+Foz do Iguacu,Sao Jose dos Campos,61
+Foz do Iguacu,Santo Andre,62
+Campina Grande,Londrina,45
+Campina Grande,Sete Lagoas,65
+Campina Grande,Arapiraca,21
+Campina Grande,Foz do Iguacu,8
+Campina Grande,Palmas,72
+Ipatinga,Curitiba,18
+Taubate,Feira de Santana,24
+Taubate,Presidente Prudente,95
+Campos,Limeira,3
+Campos,Niteroi,11
+Campos,Vila Velha,53
+Campos,Vitoria,52
+Campos,Sete Lagoas,54
+Campos,Canoas,58
+Caxias do Sul,Divinopolis,42
+Caxias do Sul,Sao Luis,28
+Caxias do Sul,Petrolina,18
+Caxias do Sul,Piracicaba,11
+Caxias do Sul,Vitoria da Conquista,96
+Sao Jose do Rio Preto,Natal,1
+Piracicaba,Belem,62
+Bauru,Itabuna,12
+Bauru,Montes Claros,75
+Bauru,Maceio,59
+Montes Claros,Ilheus,60
+Montes Claros,Anapolis,16
+Montes Claros,Mossoro,50
+Montes Claros,Sao Paulo,12
+Montes Claros,Niteroi,14
+Montes Claro,Itu,65
+Maringa,Santo Andre,23
+Maringa,Montes Claros,83
+Maringa,Florianopolis,37
+Maringa,Belem,58
+Itajai,Santos,94
+Pelotas,Brasilia,34
+Pelotas,Porto Alegre,96
+Pelotas,Goiania,7
+Pelotas,Guaratingueta,95
+Pelotas,Sete Lagoas,62
+Pelotas,Varzea Grande,48
+Itu,Campo Grande,99
+Itu,Pelotas,11
+Anapolis,Rio Branco,60
+Anapolis,Niteroi,8
+Anapolis,Caxias do Sul,57
+Anapolis,Fortaleza,68
+Vitoria da Conquista,Crato,58
+Vitoria da Conquista,Joinvile,34
+Vitoria da Conquista,Ponta Grossa,50
+Vitoria da Conquista,Macapa,75
+Porto Velho,Uberaba,41
+Porto Velho,Joinvile,28
+Porto Velho,Vitoria,2
+Franca,Novo Hamburgo,36
+Franca,Fortaleza,69
+Franca,Montes Claros,19
+Franca,Criciuma,99
+Franca,Macapa,75
+Franca,Goiania,7
+Blumenau,Manaus,44
+Blumenau,Palmas,12
+Blumenau,Rio de Janeiro,94
+Blumenau,Niteroi,5
+Blumenau,Vila Velha (Amapa),93
+Blumenau,Caxias do Sul,55
+Ponta Grossa,Santarem,91
+Ponta Grossa,Santos,30
+Ponta Grossa,Presidente Prudente,79
+Ponta Grossa,Criciuma,17
+Limeira,Santo Andre,75
+Limeira,Ipatinga,48
+Petropolis,Ribeirao Preto,71
+Petropolis,Itu,100
+Petropolis,Aracaju,50
+Petropolis,Recife,65
+Crato,Natal,76
+Crato (Amazonas),Arapiraca,57
+Cabo Frio,Londrina,34
+Cabo Frio,Ribeirao Preto,33
+Cabo Frio,Porto Velho,91
+Petrolina,Joao Pessoa,11
+Petrolina,Sao Jose do Rio Preto,72
+Petrolina,Cuiaba,21
+Petrolina,Rio Branco,5
+Uberaba,Jaboatao,71
+Uberaba,Caxias do Sul,54
+Rio Branco,Recife,78
+Rio Branco,Vila Velha,38
+Rio Branco,Pelotas,88
+Rio Branco,Juiz de Fora,10
+Rio Branco,Sorocaba,99
+Rio Branco,Itabuna,76
+Cascavel,Florianopolis,78
+Cascavel,Criciuma,67
+Cascavel,Piracicaba,96
+Cascavel,Juazeiro do Norte,18
+Governador Valadares,Presidente Prudente,71
+Governador Valadares,Sorocaba,67
+Governador Valadares,Goiania,82
+Governador Valadares,Itabuna,86
+Governador Valadares,Bauru,77
+Varzea Grande,Cabo Frio,40
+Varzea Grande,Porto Velho,99
+Varzea Grande,Ribeirao Preto,76
+Santa Maria,Porto Velho,89
+Santa Maria,Vila Velha (Amapa),63
+Santa Maria,Feira de Santana,49
+Santa Maria,Maringa,51
+Santa Maria,Franca,40
+Santa Maria,Curitiba,41
+Caruaru,Itabuna,68
+Palmas,Divinopolis,6
+Boa Vista,Pelotas,54
+Ilheus,Maceio,44
+Ilheus,Mossoro,93
+Ilheus,Caxias do Sul,90
+Ilheus,Iguacu,32
+Ilheus,Presidente Prudente,81
+Ilheus,Curitiba,6
+Santarem,Campina Grande,29
+Santarem,Fortaleza,20
+Santarem,Cabo Frio,8
+Juazeiro do Norte,Iguacu,83
+Itabuna,Campos,93
+Imperatriz,Natal,36
+Imperatriz,Recife,55
+Imperatriz,Uberaba,97
+Imperatriz,Sao Jose do Rio Preto,41
+Marilia,Ilheus,4
+Marilia,Cachoeiro de Itapemirim,53
+Marilia,Belo Horizonte,74
+Marilia,Jaboatao,40
+Marilia,Taubate,57
+Marilia,Santos,17
+Presidente Prudente,Criciuma,21
+Sao Carlos,Curitiba,3
+Criciuma,Santo Andre,58
+Criciuma,Novo Hamburgo,25
+Criciuma,Jaboatao,72
+Criciuma,Governador Valadares,63
+Criciuma,Curitiba,45
+Guaratingueta,Jundiai,49
+Guaratingueta,Caxias do Sul,42
+Guaratingueta,Divinopolis,82
+Guaratingueta,Porto Velho,59
+Guaratingueta,Juiz de Fora,95
+Timon,Salvador,66
+Timon,Uberlandia,33
+Mossoro,Rio Claro,76
+Mossoro,Maringa,70
+Mossoro,Uberlandia,44
+Mossoro,Cabo Frio,45
+Mossoro,Crato,11
+Mossoro,Belem,14
+Sete Lagoas,Pelotas,73
+Sete Lagoas,Juiz de Fora,91
+Sete Lagoas,Natal,64
+Sete Lagoas,Criciuma,45
+Sete Lagoas,Santa Maria,28
+Divinopolis,Belo Horizonte,98
+Divinopolis,Montes Claros,73
+Divinopolis,Macapa,95
+Divinopolis,Cuiaba,30
+Divinopolis,Manaus,21
+Divinopolis,Palmas,73
+Divinopolis,Volta Redonda,65
+Rio Grande,Feira de Santana,65
+Rio Grande,Sao Paulo,73
+Arapiraca,Crato (Amazonas),32
+Arapiraca,Salvador,85
+Arapiraca,Vitoria da Conquista,71
+Arapiraca,Novo Hamburgo,9
+Arapiraca,Santo Andre,17
+Cachoeiro de Itapemirim,Franca,49
+Cachoeiro de Itapemirim,Volta Redonda,71
+Cachoeiro de Itapemirim,Aracaju,72
+Rio Claro,Maringa,47
+Rio Claro,Presidente Prudente,42
